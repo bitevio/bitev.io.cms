@@ -18,10 +18,10 @@
 ## Installation 
 
 ```js
-npx create-bitev-app <projet-name>
+npx create-bitev-app@latest <projet-name>
 ```
 ```js
-npm init bitev-app <projet-name>
+npm init bitev-app@latest <projet-name>
 ```
 
 ## Prérequis
