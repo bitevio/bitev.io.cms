@@ -6,7 +6,8 @@
     ".env",
     "./.tmp/.pid",
     "./extensions/",
-    "./database/"
+    "./database/",
+    "./bitev.config.js"
   ],
   "ignore": ["README",".git","node_modules/**/node_modules"],
   "ext":"js,env,pid"
