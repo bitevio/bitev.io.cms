@@ -1,4 +1,6 @@
-const { Collection } = require("bitev.io/types")
+const {
+    Collection
+} = require("@bitev.io/core/types");
 module.exports= Collection({
        slug:"Roles",
        fields:[
