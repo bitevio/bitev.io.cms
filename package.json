@@ -1,5 +1,5 @@
 {
-  "name": "bitev.io.cms",
+  "name": "@bitev.io/cms",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -11,7 +11,7 @@
   },
 
   "dependencies": {
-    "bitev.io": "*",
+    "@bitev.io/core": "*",
     "nodemon": "*"
   },
   "devDependencies": {
