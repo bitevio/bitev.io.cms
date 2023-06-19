@@ -11,13 +11,13 @@
   },
 
   "dependencies": {
-    "@bitev.io/core": "latest",
-    "nodemon": "latest"
+    "@bitev.io/core": "*",
+    "nodemon": "*"
   },
   "devDependencies": {
     "prisma-json-schema-generator":"*",
-    "@prisma/client": "latest",
-    "prisma":"latest"
+    "@prisma/client": "*",
+    "prisma":"*"
   },
   "engines": {
     "node": ">=14",
