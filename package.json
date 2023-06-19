@@ -1,6 +1,6 @@
 {
   "name": "@bitev.io/cms",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "",
   "scripts": {
     "sync": "npx prisma generate",
@@ -11,13 +11,13 @@
   },
 
   "dependencies": {
-    "@bitev.io/core": "*",
-    "nodemon": "*"
+    "@bitev.io/core": "latest",
+    "nodemon": "latest"
   },
   "devDependencies": {
     "prisma-json-schema-generator":"*",
-    "@prisma/client": "*",
-    "prisma":"*"
+    "@prisma/client": "latest",
+    "prisma":"latest"
   },
   "engines": {
     "node": ">=14",
