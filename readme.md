@@ -7,7 +7,7 @@
 
 # Bitev CMS - Full backend
 
-[https://cms.bitev.io](Documentation website)
+[Documentation website](https://cms.bitev.io)
 
 
 [<img src="https://i.ibb.co/nznpfLv/bitev.png" width="50"/>](image.png)
