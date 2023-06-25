@@ -1,7 +1,26 @@
 {
   "name": "@bitev.io/cms",
-  "version": "3.0.1",
-  "description": "",
+  "version": "3.5.0",
+
+  "description": "Fast CMS & real-time API for NOSQL (MongoDB) ",
+  "keywords": [
+		"bitev.io",
+		"realtime",
+		"database",
+		"content",
+		"api",
+		"rest",
+    "sdk",
+		"app",
+		"dashboard",
+		"headless",
+		"cms",
+	  "mongodb",
+    "nosql",
+		"framework",
+		"vue",
+    "quasar"
+	],
   "scripts": {
     "sync": "npx prisma generate",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -31,10 +50,14 @@
     }
   ],
   "homepage": "https://bitev.io",
-
   "repository": {
-    "url": "https://github.com/bitevio/bitev.io"
+    "type": "git",
+    "url": "https://github.com/bitevio/bitev.io.cms.git"
   },
-  "author": "dev@bitev.io",
+  "author": {
+    "name":"Bitev Inc",
+    "email":"dev@bitev.io",
+    "url": "https://bitev.io"
+  },
   "license": "MIT"
 }
