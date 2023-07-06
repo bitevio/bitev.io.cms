@@ -8,3 +8,4 @@ rest
 /uploads/*
 !/uploads/.gitkeep 
 .DS_Store
+.tmp/tokens.db
