@@ -2,6 +2,7 @@
   "verbose":false,
   "exec": "npx prisma generate && node bitev.config.js",
   "watch":[
+    "./api",
     "./providers/",
     ".env",
     "./.tmp/.pid",
